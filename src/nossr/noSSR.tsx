@@ -1,4 +1,4 @@
-import React, { useEffect, useState, Suspense } from 'react';
+import { useEffect, useState, Suspense } from 'react';
 import { INoSSRProps } from './interface';
 
 /**
