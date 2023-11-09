@@ -1,3 +1,9 @@
+## 🎉 v1.0.3 `2023-11-09`
+### ⚙️ 配置：配置文件的更改
+- update ([f7d5f26](https://github.com/kwooshung/react-no-ssr/commit/f7d5f26))
+
+---
+
 ## 🎉 v1.0.2 `2023-11-09`
 ### 📚 文档：变更的只有文档
 - update title ([e8054a3](https://github.com/kwooshung/react-no-ssr/commit/e8054a3))
