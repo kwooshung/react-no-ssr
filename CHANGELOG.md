@@ -2,6 +2,9 @@
 ### ⚙️ 配置：配置文件的更改
 - update private to false ([8b29a6f](https://github.com/kwooshung/react-no-ssr/commit/8b29a6f))
 
+### 📦️ 发布：发布新版本
+- 1.0.5 ([37b5e0a](https://github.com/kwooshung/react-no-ssr/commit/37b5e0a))
+
 ---
 
 ## 🎉 v1.0.4 `2023-11-09`
