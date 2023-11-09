@@ -2,6 +2,9 @@
 ### ⚙️ 配置：配置文件的更改
 - update tags ([7eac5db](https://github.com/kwooshung/react-no-ssr/commit/7eac5db))
 
+### 📦️ 发布：发布新版本
+- 1.0.4 ([40da8fa](https://github.com/kwooshung/react-no-ssr/commit/40da8fa))
+
 ---
 
 ## 🎉 v1.0.3 `2023-11-09`
