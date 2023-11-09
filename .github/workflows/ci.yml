@@ -28,6 +28,12 @@ jobs:
       - name: run tests
         run: pnpm test:ci
 
+      # 上传覆盖率报告到 Coveralls
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@main
+        env:
+          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+
       # 同步到 Gitee
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master

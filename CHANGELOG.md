@@ -1,6 +1,15 @@
+## 🎉 v1.0.6 `2023-11-09`
+### 🔄 工作流：CI 配置、脚本，等工作流相关文件更改
+- add upload coverage reports to codecov ([79855c6](https://github.com/kwooshung/react-no-ssr/commit/79855c6))
+
+---
+
 ## 🎉 v1.0.5 `2023-11-09`
 ### ⚙️ 配置：配置文件的更改
 - update private to false ([8b29a6f](https://github.com/kwooshung/react-no-ssr/commit/8b29a6f))
+
+### 📦️ 发布：发布新版本
+- 1.0.5 ([37b5e0a](https://github.com/kwooshung/react-no-ssr/commit/37b5e0a))
 
 ---
 
