@@ -1,3 +1,9 @@
+## 🎉 v1.0.8 `2023-11-09`
+### ⚙️ 配置：配置文件的更改
+- update dependencies ([3308a7b](https://github.com/kwooshung/react-no-ssr/commit/3308a7b))
+
+---
+
 ## 🎉 v1.0.7 `2023-11-09`
 ### ⚙️ 配置：配置文件的更改
 - dependencies ([0f59c6b](https://github.com/kwooshung/react-no-ssr/commit/0f59c6b))
