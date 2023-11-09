@@ -1,6 +1,6 @@
 {
   "name": "@kwooshung/react-no-ssr",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "title": "React No SSR",
   "description": "This is a React component called NoSSR, and its main function is to prevent the rendering of its child components in a server-side rendering (SSR) environment. This component renders its child components normally in a client-side environment (such as a browser), but in a server-side rendering environment it does not render anything.",
   "private": false,
@@ -69,8 +69,6 @@
     }
   },
   "dependencies": {
-    "@arco-design/web-react": "^2.55.0",
-    "classnames": "^2.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

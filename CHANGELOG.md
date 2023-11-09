@@ -1,4 +1,13 @@
+## 🎉 v1.0.7 `2023-11-09`
+### ⚙️ 配置：配置文件的更改
+- dependencies ([0f59c6b](https://github.com/kwooshung/react-no-ssr/commit/0f59c6b))
+
+---
+
 ## 🎉 v1.0.6 `2023-11-09`
+### 📦️ 发布：发布新版本
+- 1.0.6 ([04120d0](https://github.com/kwooshung/react-no-ssr/commit/04120d0))
+
 ### 🔄 工作流：CI 配置、脚本，等工作流相关文件更改
 - add upload coverage reports to codecov ([79855c6](https://github.com/kwooshung/react-no-ssr/commit/79855c6))
 
