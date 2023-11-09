@@ -2,6 +2,9 @@
 ### 📚 文档：变更的只有文档
 - update title ([e8054a3](https://github.com/kwooshung/react-no-ssr/commit/e8054a3))
 
+### 📦️ 发布：发布新版本
+- 1.0.2 ([37c7256](https://github.com/kwooshung/react-no-ssr/commit/37c7256))
+
 ---
 
 ## 🎉 v1.0.1 `2023-11-09`
