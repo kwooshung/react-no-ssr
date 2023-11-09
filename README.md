@@ -2,7 +2,7 @@
 
 # React
 
-这是一个名为NoSSR的React组件，它的主要功能是在服务器端渲染（SSR）环境中阻止其子组件的渲染。这个组件在客户端环境中（如浏览器）正常渲染其子组件，但在服务器端渲染环境中，它不会渲染任何内容。
+This is a React component called NoSSR, and its main function is to prevent the rendering of its child components in a server-side rendering (SSR) environment. This component renders its child components normally in a client-side environment (such as a browser), but in a server-side rendering environment it does not render anything.
 
 [![GitHub License](https://img.shields.io/github/license/kwooshung/react-no-ssr?labelColor=272e3b&color=165dff)](LICENSE)
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/kwooshung/react-no-ssr?labelColor=272e3b&color=00b42A&logo=github)

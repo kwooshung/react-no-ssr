@@ -1,35 +1,41 @@
 {
-  "name": "@kwooshung/react-component-template",
+  "name": "@kwooshung/react-no-ssr",
   "version": "1.0.0",
   "title": "React Component Template",
-  "description": "React Component Template",
+  "description": "This is a React component called NoSSR, and its main function is to prevent the rendering of its child components in a server-side rendering (SSR) environment. This component renders its child components normally in a client-side environment (such as a browser), but in a server-side rendering environment it does not render anything.",
   "private": true,
   "tags": [
     "kwooshung",
     "react",
-    "github-page",
-    "github",
-    "pages",
-    "page",
-    "react-component"
+    "ssr",
+    "no-ssr",
+    "no ssr",
+    "next.js",
+    "vite",
+    "vite.js",
+    "umi",
+    "umi.js"
   ],
   "keywords": [
     "kwooshung",
     "react",
-    "github-page",
-    "github",
-    "pages",
-    "page",
-    "react-component"
+    "ssr",
+    "no-ssr",
+    "no ssr",
+    "next.js",
+    "vite",
+    "vite.js",
+    "umi",
+    "umi.js"
   ],
   "author": "kwooshung (https://github.com/kwooshung)",
-  "homepage": "https://github.com/kwooshung/react-component-template",
+  "homepage": "https://github.com/kwooshung/react-no-ssr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwooshung/react-component-template.git"
+    "url": "https://github.com/kwooshung/react-no-ssr.git"
   },
   "bugs": {
-    "url": "https://github.com/kwooshung/react-component-template/issues"
+    "url": "https://github.com/kwooshung/react-no-ssr/issues"
   },
   "main": "dist/react-no-ssr.cjs.js",
   "module": "dist/react-no-ssr.esm.js",
@@ -72,7 +78,7 @@
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^18.1.0",
-    "@kwooshung/standard-version-helper": "^1.5.2",
+    "@kwooshung/standard-version-helper": "^1.5.5",
     "@swc/core": "^1.3.95",
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^14.0.0",

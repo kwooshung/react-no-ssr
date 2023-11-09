@@ -23,8 +23,8 @@ devDependencies:
     specifier: ^18.1.0
     version: 18.1.0
   '@kwooshung/standard-version-helper':
-    specifier: ^1.5.2
-    version: 1.5.3(node@21.1.0)
+    specifier: ^1.5.5
+    version: 1.5.5(node@21.1.0)
   '@swc/core':
     specifier: ^1.3.95
     version: 1.3.95
@@ -937,14 +937,14 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: true
 
-  /@kwooshung/standard-version-helper@1.5.3(node@21.1.0):
-    resolution: {integrity: sha512-J9bPk1qazom/XoeQN1V0fGDBTc9bgRNTH/f2lKcx+j8IsFnW8y1lh1SMAh7srXL3RUMcSLiyjbz6feMqeRjlXQ==}
+  /@kwooshung/standard-version-helper@1.5.5(node@21.1.0):
+    resolution: {integrity: sha512-S7bHDkTPRBdTXDLQdJ/y1GpAE06Lf/HXmtPoqvqpIta0d7tsrJvOFsUAO3iFweX1oxa6znolaGAfqqsUUrePnw==}
     hasBin: true
     peerDependencies:
       node: '>=14.0.0'
     dependencies:
       detect-indent: 7.0.1
-      inquirer: 9.2.11
+      inquirer: 9.2.12
       node: 21.1.0
       ora: 7.0.1
     dev: true
@@ -4206,8 +4206,8 @@ packages:
       wrap-ansi: 7.0.0
     dev: true
 
-  /inquirer@9.2.11:
-    resolution: {integrity: sha512-B2LafrnnhbRzCWfAdOXisUzL89Kg8cVJlYmhqoi3flSiV/TveO+nsXwgKr9h9PIo+J1hz7nBSk6gegRIMBBf7g==}
+  /inquirer@9.2.12:
+    resolution: {integrity: sha512-mg3Fh9g2zfuVWJn6lhST0O7x4n03k7G8Tx5nvikJkbq8/CK47WDVm+UznF0G6s5Zi0KcyUisr6DU8T67N5U+1Q==}
     engines: {node: '>=14.18.0'}
     dependencies:
       '@ljharb/through': 2.3.11

@@ -1,4 +1,4 @@
 ## 🎉 v1.0.0 `2023-11-09`
-### 🍻 发布：发布新版本
-- release ([7a9085e](https://github.com/kwooshung/react-component-template/commit/7a9085e))
+### ⚙️ 配置：配置文件的更改
+- version ([75300ec](https://github.com/kwooshung/react-no-ssr/commit/75300ec))
 
