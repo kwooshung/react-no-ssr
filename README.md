@@ -1,6 +1,6 @@
 <div align="center">
 
-# React
+# React NoSSR
 
 This is a React component called NoSSR, and its main function is to prevent the rendering of its child components in a server-side rendering (SSR) environment. This component renders its child components normally in a client-side environment (such as a browser), but in a server-side rendering environment it does not render anything.
 

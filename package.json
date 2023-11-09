@@ -1,7 +1,7 @@
 {
   "name": "@kwooshung/react-no-ssr",
-  "version": "1.0.1",
-  "title": "React Component Template",
+  "version": "1.0.4",
+  "title": "React No SSR",
   "description": "This is a React component called NoSSR, and its main function is to prevent the rendering of its child components in a server-side rendering (SSR) environment. This component renders its child components normally in a client-side environment (such as a browser), but in a server-side rendering environment it does not render anything.",
   "private": true,
   "tags": [
@@ -10,6 +10,7 @@
     "ssr",
     "no-ssr",
     "no ssr",
+    "next",
     "next.js",
     "vite",
     "vite.js",
@@ -22,6 +23,7 @@
     "ssr",
     "no-ssr",
     "no ssr",
+    "next",
     "next.js",
     "vite",
     "vite.js",
