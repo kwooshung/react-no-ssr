@@ -1,3 +1,9 @@
+## 🎉 v1.0.2 `2023-11-09`
+### 📚 文档：变更的只有文档
+- update title ([e8054a3](https://github.com/kwooshung/react-no-ssr/commit/e8054a3))
+
+---
+
 ## 🎉 v1.0.1 `2023-11-09`
 ### ✅ 测试：添加或更新测试
 - add test files ([cec35d4](https://github.com/kwooshung/react-no-ssr/commit/cec35d4))
