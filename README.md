@@ -13,7 +13,7 @@ This is a React component called NoSSR, and its main function is to prevent the 
 ![GitHub issues](https://img.shields.io/github/issues/kwooshung/react-no-ssr?labelColor=272e3b&color=165dff)
 ![Github Stars](https://img.shields.io/github/stars/kwooshung/react-no-ssr?labelColor=272e3b&color=165dff)
 [![NPM Version](https://img.shields.io/npm/v/@kwooshung/react-no-ssr?labelColor=272e3b&color=165dff)](https://www.npmjs.com/package/@kwooshung/react-no-ssr)
-[![Npm.js Downloads/Week](https://img.shields.io/npm/dw/%40kwooshung%2Freact-no-ssr?labelColor=272e3b&labelColor=272e3b&color=165dff&logo=npm)](https://www.npmjs.com/package/@kwooshung/react-no-ssr)
+[![Npm.js Downloads/Week](https://img.shields.io/npm/dw/@kwooshung/react-no-ssr?labelColor=272e3b&labelColor=272e3b&color=165dff&logo=npm)](https://www.npmjs.com/package/@kwooshung/react-no-ssr)
 [![Github CI/CD](https://github.com/kwooshung/react-no-ssr/actions/workflows/ci.yml/badge.svg)](https://github.com/kwooshung/react-no-ssr/actions/)
 [![codecov](https://codecov.io/gh/kwooshung/react-no-ssr/graph/badge.svg?token=VVZJE7H0KD)](https://codecov.io/gh/kwooshung/react-no-ssr)
 [![Maintainability](https://api.codeclimate.com/v1/badges/325d0881b1ca19165d35/maintainability)](https://codeclimate.com/github/kwooshung/react-no-ssr/maintainability/)
