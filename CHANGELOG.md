@@ -1,4 +1,7 @@
-## 🎉 v1.1.0 `2023-11-10`
+## 🎉 v1.1.1 `2023-11-10`
+### 🔗 依赖更新：更新依赖库或包
+- update ([4fe52c6](https://github.com/kwooshung/react-no-ssr/commit/4fe52c6))
+
 ### 📦️ 发布：发布新版本
 - 1.1.0 ([7b58126](https://github.com/kwooshung/react-no-ssr/commit/7b58126))
 
