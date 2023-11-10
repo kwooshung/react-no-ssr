@@ -1,4 +1,7 @@
 ## 🎉 v1.1.2 `2023-11-10`
+### 📦️ release
+- 1.1.2 ([3b4e16b](https://github.com/kwooshung/react-no-ssr/commit/3b4e16b))
+
 ### 🆕 add
 - add type and scopes ([b2c5bdc](https://github.com/kwooshung/react-no-ssr/commit/b2c5bdc))
 
