@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const CHANGELOG_PATH = 'CHANGELOG.md'; // 替换为您的 changelog 文件路径
+const CHANGELOG_PATH = 'CHANGELOG.md';
 
 const types = require('./commitTypes.cjs');
 
