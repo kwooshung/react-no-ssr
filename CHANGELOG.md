@@ -1,6 +1,14 @@
+## 🎉 v1.1.0 `2023-11-10`
+- 没有特别说明
+
+---
+
 ## 🎉 v1.0.9 `2023-11-10`
 ### 📚 文档：变更的只有文档
 - update links ([aa00bae](https://github.com/kwooshung/react-no-ssr/commit/aa00bae))
+
+### 📦️ 发布：发布新版本
+- 1.0.9 ([5629f5b](https://github.com/kwooshung/react-no-ssr/commit/5629f5b))
 
 ---
 
