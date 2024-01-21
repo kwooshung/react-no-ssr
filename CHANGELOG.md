@@ -1,3 +1,9 @@
+## 🎉 v1.1.4 `2024-1-21`
+### ⚙️ config
+- add .gitattributes and force it to LF ([90fe389](https://github.com/kwooshung/react-no-ssr/commit/90fe389))
+
+---
+
 ## 🎉 v1.1.3 `2023-11-10`
 ### ⚙️ config
 - update ([2865846](https://github.com/kwooshung/react-no-ssr/commit/2865846))
