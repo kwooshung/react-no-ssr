@@ -1,6 +1,15 @@
+## 🎉 v1.1.4 `2024-1-21`
+### ⚙️ config
+- add .gitattributes and force it to LF ([90fe389](https://github.com/kwooshung/react-no-ssr/commit/90fe389))
+
+---
+
 ## 🎉 v1.1.3 `2023-11-10`
 ### ⚙️ config
 - update ([2865846](https://github.com/kwooshung/react-no-ssr/commit/2865846))
+
+### 📦️ release
+- 1.1.3 ([225798e](https://github.com/kwooshung/react-no-ssr/commit/225798e))
 
 ---
 
@@ -32,7 +41,7 @@
 
 ---
 
-## 🎉 v1.0.8 `2023-11-09`
+## 🎉 v1.0.8 `2023-11-8`
 ### ⚙️ config
 - update dependencies ([3308a7b](https://github.com/kwooshung/react-no-ssr/commit/3308a7b))
 
@@ -41,7 +50,7 @@
 
 ---
 
-## 🎉 v1.0.7 `2023-11-09`
+## 🎉 v1.0.7 `2023-11-8`
 ### ⚙️ config
 - dependencies ([0f59c6b](https://github.com/kwooshung/react-no-ssr/commit/0f59c6b))
 
@@ -50,7 +59,7 @@
 
 ---
 
-## 🎉 v1.0.6 `2023-11-09`
+## 🎉 v1.0.6 `2023-11-8`
 ### 📦️ release
 - 1.0.6 ([04120d0](https://github.com/kwooshung/react-no-ssr/commit/04120d0))
 
@@ -59,7 +68,7 @@
 
 ---
 
-## 🎉 v1.0.5 `2023-11-09`
+## 🎉 v1.0.5 `2023-11-8`
 ### ⚙️ config
 - update private to false ([8b29a6f](https://github.com/kwooshung/react-no-ssr/commit/8b29a6f))
 
@@ -68,7 +77,7 @@
 
 ---
 
-## 🎉 v1.0.4 `2023-11-09`
+## 🎉 v1.0.4 `2023-11-8`
 ### ⚙️ config
 - update tags ([7eac5db](https://github.com/kwooshung/react-no-ssr/commit/7eac5db))
 
@@ -77,7 +86,7 @@
 
 ---
 
-## 🎉 v1.0.3 `2023-11-09`
+## 🎉 v1.0.3 `2023-11-8`
 ### ⚙️ config
 - update ([f7d5f26](https://github.com/kwooshung/react-no-ssr/commit/f7d5f26))
 
@@ -86,7 +95,7 @@
 
 ---
 
-## 🎉 v1.0.2 `2023-11-09`
+## 🎉 v1.0.2 `2023-11-8`
 ### 📚 docs
 - update title ([e8054a3](https://github.com/kwooshung/react-no-ssr/commit/e8054a3))
 
@@ -95,7 +104,7 @@
 
 ---
 
-## 🎉 v1.0.1 `2023-11-09`
+## 🎉 v1.0.1 `2023-11-8`
 ### ✅ test
 - add test files ([cec35d4](https://github.com/kwooshung/react-no-ssr/commit/cec35d4))
 
